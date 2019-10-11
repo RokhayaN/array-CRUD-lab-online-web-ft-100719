@@ -21,19 +21,21 @@ end
 
 def 
   remove_element_from_end_of_array = [1,2,3,4,5]
-  remove_element_from_end_of_array.pop(5)
+  remove_element_from_end_of_array.pop
   print remove_element_from_end_of_array
 end 
   
 
 def 
   remove_element_from_start_of_array = [1,2,3,4]
-  remove_element_from_start_of_array.shift[1]
+  remove_element_from_start_of_array.shift
   print remove_element_from_start_of_array
-  
 end
 
-def retrieve_element_from_index(array, index_number)
+def 
+  retrieve_element_from_index=["a","b","c","d"] 
+  retrieve_element_from_index.index[-1]
+  
   
 end
 
