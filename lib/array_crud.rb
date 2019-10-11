@@ -35,11 +35,11 @@ end
 def 
   retrieve_element_from_index=["a","b","c","d"] 
   retrieve_element_from_index[-1]
-  
-  
 end
 
-def retrieve_first_element_from_array(array)
+def 
+  retrieve_first_element_from_array[1,2,3,4]
+  retrieve_first_element_from_array.first
   
 end
 
