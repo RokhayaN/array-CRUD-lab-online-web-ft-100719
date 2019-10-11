@@ -38,11 +38,11 @@ def
 end
 
 def 
-  retrieve_first_element_from_array[1,2,3,4]
+  retrieve_first_element_from_array=[1,2,3,4]
   retrieve_first_element_from_array.first
-  
 end
 
-def retrieve_last_element_from_array(array)
-  
+def 
+  retrieve_last_element_from_array=[1,2,3,4]
+  retrieve_last_element_from_array.last
 end
