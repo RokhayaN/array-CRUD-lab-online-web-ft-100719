@@ -22,7 +22,6 @@ end
 def 
   remove_element_from_end_of_array = [1,2,3,4,5]
   remove_element_from_end_of_array.pop
-  print remove_element_from_end_of_array
 end 
   
 
