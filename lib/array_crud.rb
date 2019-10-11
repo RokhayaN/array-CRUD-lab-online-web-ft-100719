@@ -34,7 +34,7 @@ end
 
 def 
   retrieve_element_from_index=["a","b","c","d"] 
-  retrieve_element_from_index.index[-1]
+  retrieve_element_from_index[-1]
   
   
 end
